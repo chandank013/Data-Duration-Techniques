@@ -49,3 +49,11 @@ This project uses:
 
 ```bash
 Python 3.13.0
+
+## 📌 Contributing
+
+🚀 If you'd like to prctice, you're welcome to fork the repository and submit a pull request!
+
+- 👉 **Fork this repository:** [Click here to fork 📌](https://github.com/chandank013/data-curation-practice/fork)
+- 👉 **Create a Pull Request:** After making changes in your fork, visit  
+  [https://github.com/chandank013/data-curation-practice/pulls](https://github.com/chandank013/data-curation-practice/pulls) to submit a pull request.
